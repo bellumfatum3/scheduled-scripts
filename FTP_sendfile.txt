@@ -1,8 +1,8 @@
 open 149.83.123.4
 tbmuali
-nekoada1
+password
 type ascii
-SITE AUTORECALL
-get 'BRXY.CCNY.INPOFX.C045.FILED.G0040V00' BRXY.CCNY.INPOFX.C045.FILED.G0040V00.txt 
 
+get 'BRXY.CCNY.INPOFX.C045.FILED.G0040V00' BRXY.CCNY.INPOFX.C045.FILED.G0040V00.txt 
+put filename.txt  'mainframefilename'
 quit
